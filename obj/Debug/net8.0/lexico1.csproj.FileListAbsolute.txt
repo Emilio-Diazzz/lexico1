@@ -1,0 +1,14 @@
+C:\Users\emili\OneDrive\Escritorio\lexico1\bin\Debug\net8.0\lexico1.exe
+C:\Users\emili\OneDrive\Escritorio\lexico1\bin\Debug\net8.0\lexico1.deps.json
+C:\Users\emili\OneDrive\Escritorio\lexico1\bin\Debug\net8.0\lexico1.runtimeconfig.json
+C:\Users\emili\OneDrive\Escritorio\lexico1\bin\Debug\net8.0\lexico1.dll
+C:\Users\emili\OneDrive\Escritorio\lexico1\bin\Debug\net8.0\lexico1.pdb
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.AssemblyInfoInputs.cache
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.AssemblyInfo.cs
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.csproj.CoreCompileInputs.cache
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.dll
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\refint\lexico1.dll
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.pdb
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\lexico1.genruntimeconfig.cache
+C:\Users\emili\OneDrive\Escritorio\lexico1\obj\Debug\net8.0\ref\lexico1.dll
